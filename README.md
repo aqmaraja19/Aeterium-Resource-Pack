@@ -12,4 +12,4 @@ Repository for the Aeterium SMP minecraft server Resource Pack development proje
 - Bedrock Port: `19205`
 
 ## Aeterium SMP Web
-web.aeteriumsmp.my.id
+https://web.aeteriumsmp.my.id
